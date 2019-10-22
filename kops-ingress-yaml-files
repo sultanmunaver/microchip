@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/kubernetes/ingress-nginx/2de5a893aa15f14102d714e918b0045b960ad1a5/deploy/static/mandatory.yaml
+https://raw.githubusercontent.com/kubernetes/ingress-nginx/2de5a893aa15f14102d714e918b0045b960ad1a5/deploy/static/provider/aws/service-l4.yaml
+https://raw.githubusercontent.com/kubernetes/ingress-nginx/2de5a893aa15f14102d714e918b0045b960ad1a5/deploy/static/provider/aws/patch-configmap-l4.yaml
